@@ -1,6 +1,6 @@
 # 👩‍💻 Patricia Pola Caballero  
 
-📍 **Desarrolladora de Software**  🚀   
+**Desarrolladora de Software**  🚀   
 
 ## 🛠 Habilidades Técnicas  
 - **Lenguajes:** Java, Kotlin (Jetpack Compose), JavaScript, Python  
